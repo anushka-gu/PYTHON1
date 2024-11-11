@@ -12,4 +12,4 @@ else:
         else:
             myComment = "You are too small to learn python"
 print("At age: " + str(myAge) + "->" + myComment)
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
