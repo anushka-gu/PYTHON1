@@ -7,4 +7,4 @@ if age >= 18 and has_license:
     print("You can drive.")
 else:
     print("You cannot drive.")
-    print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+  print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
