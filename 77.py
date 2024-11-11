@@ -4,4 +4,4 @@ def greet(name):
     print(f"Hello,{name}")
 result = greet("Jagrit")
 print(result)
-print("77. This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
