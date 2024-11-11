@@ -4,4 +4,4 @@ while count < 5:
     print("Count is:", count)
     count += 1  
 
-    print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+   print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
