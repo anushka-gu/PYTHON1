@@ -2,4 +2,4 @@
 
 for i in range(1, 10, 2):
  print(i) # Outputs: 1, 3, 5, 7, 9
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
