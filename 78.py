@@ -41,5 +41,4 @@ def print_info(**kwargs):
 
 print_info(name="Alice", age=30, city="New York")
 print("This is the result for **kwargs (variable-length keyword parameters).")
-
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
