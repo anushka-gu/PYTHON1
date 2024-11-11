@@ -31,4 +31,4 @@ num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 print_numbers(num1, num2)
 
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
