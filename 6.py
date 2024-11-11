@@ -32,5 +32,4 @@ print("dictionary",dictionary)
 #none
 none_type =""
 print("None", none_type)
-
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
