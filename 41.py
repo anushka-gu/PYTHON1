@@ -30,5 +30,4 @@ raw_string = r"This is a newline character: \n"
 
 print("Normal String:", normal_string)
 print("Raw String:", raw_string)
-
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
