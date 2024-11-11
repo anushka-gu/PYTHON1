@@ -2,4 +2,4 @@
 
 squares = {x**2 for x in range(5)}
 print(squares) # Outputs: {0, 1, 4, 9, 16}
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
