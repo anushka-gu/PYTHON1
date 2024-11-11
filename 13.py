@@ -9,4 +9,4 @@ power_value = pow(2,3) #8
 print(f"absolute value : {absolute_value}")
 print(f"rounded value: {rounded_value}")
 print(f"power value : {power_value}")
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
