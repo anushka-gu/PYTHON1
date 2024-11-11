@@ -11,4 +11,4 @@ class Countdown:
 
 for number in Countdown(5):
     print(number)  # Outputs: 5, 4, 3, 2, 1
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
