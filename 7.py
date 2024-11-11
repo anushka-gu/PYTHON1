@@ -6,4 +6,4 @@ if 0 <= len(my_string):
     print(f" The character at the specific string:",{my_string[pos]})
 else:
     print("Invalid position")
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
