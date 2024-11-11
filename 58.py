@@ -3,4 +3,4 @@
 numbers = [1, 2, 3, 4]
 squared = list(map(lambda x: x**2, numbers))
 print(squared) # Outputs: [1, 4, 9, 16]
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
