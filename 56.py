@@ -3,4 +3,4 @@
 numbers = [1, 2, 3, 4, 5]
 even_numbers = [x for x in numbers if x % 2 == 0]
 print(even_numbers) # Outputs: [2, 4]
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
