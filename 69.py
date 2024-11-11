@@ -5,4 +5,4 @@ name = my_dict.get('name')
 my_dict.pop('job')
 print(name) # Outputs: Bob
 print(my_dict) # Outputs: {'name': 'Bob', 'age': 30}
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
