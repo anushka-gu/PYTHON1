@@ -16,4 +16,4 @@ if is_a_perfect_number(number):
     print(f"{number} is a perfect number.")
 else: 
     print(f"{number} is not a perfect number.")
-    print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+  print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
