@@ -24,4 +24,4 @@ print(f"Discount Percentage: {discount_percentage}%")
 print(f"Discount Amount: {discount_amount}")
 print(f"Final Bill Amount: {final_bill}")
 
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
