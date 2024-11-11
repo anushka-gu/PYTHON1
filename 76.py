@@ -8,4 +8,4 @@ def find_first_even(numbers):
 nums = [1,3,5,8,9]
 first_even = find_first_even(nums)
 print(first_even)
-print("76. This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
