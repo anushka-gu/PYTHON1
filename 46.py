@@ -71,4 +71,4 @@ print(f"Largest prime number smaller than {num}: {prime_smaller}")
 print(f"Largest perfect number smaller than {num}: {perfect_smaller}")
 print(f"Largest Armstrong number smaller than {num}: {armstrong_smaller}")
 
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
