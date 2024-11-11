@@ -7,4 +7,4 @@ def fibonacci(n):
       a, b = b, a + b
 for num in fibonacci(10):
  print(num) # Outputs: 0, 1, 1, 2, 3, 5, 8
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
