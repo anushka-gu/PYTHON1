@@ -6,4 +6,4 @@ def get_user_info():
 user_name , user_age = get_user_info()
 print(user_name)
 print(user_age)
-print("73. This code is written by Jagrit Ahuja ERP- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
