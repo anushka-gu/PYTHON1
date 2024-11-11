@@ -5,5 +5,4 @@ num = 16
 print(f"Square root of {num} is {math.sqrt(num)}")
 print(f"Factorial of {num} is {math.factorial(num)}")
 print(f"Logarithm of {num} is {math.log2(num)}")
-
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
