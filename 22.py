@@ -42,4 +42,4 @@ elif marks >=40:
 else:
     print("Grade:                             E")
 print("---------------------------------------------------------")
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
