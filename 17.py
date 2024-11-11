@@ -10,4 +10,4 @@ print(f"{a} or {b} : {a or b}")
 #NOT Operators
 print(f"not {a} :  {not a}")
 print(f"not {b} :  {not b}")
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
