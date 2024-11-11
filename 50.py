@@ -17,4 +17,4 @@ class Reverse:
 rev = Reverse('giraffe')
 for char in rev:
     print(char)  # Outputs: e, f, a, r, i, g
-    print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+ print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
