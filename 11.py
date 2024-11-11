@@ -26,4 +26,4 @@ print("REVERSED STRING",reversed_string)
 # print(person)
 # print(unique_numbers)
 
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
