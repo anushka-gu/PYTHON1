@@ -21,5 +21,4 @@ n = int(input("Enter how many Armstrong numbers (n) you want to find: "))
 
 armstrong_numbers = find_n_armstrong_after_x(x, n)
 print(f"The first {n} Armstrong numbers after {x} are: {armstrong_numbers}")
-
-print("THIS PROGRAM IS WRITTEN BY JAGRIT AHUJA ERP :- 0221BCA142")
+print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
