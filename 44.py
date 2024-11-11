@@ -9,5 +9,4 @@ def main():
     common_characters('rose', 'goose')
 
 if __name__ == "__main__":
-    main()
-print("This code is written by Jagrit Ahuja ERP- 0221BCA142")
+    main()print("THIS PROGRAM IS WRITTEN BY ANUSHKA GUPTA ERP :- 0221BCA155")
